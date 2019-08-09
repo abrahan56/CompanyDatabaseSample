@@ -3,7 +3,7 @@
 
 The project has 3 parts.
 
-In the first part database model is created with the relations according to the given schema. Most important challenges in this part was normalizing the database and defining table relations appropriately.
+In the first part database model is created with the relations according to the given schema. I wanted to make sure to design the tables in relation to each other with 3nf
 
 After the model is created queries are added in such a way that there will be no empty results when the sample queries are executed.
 
